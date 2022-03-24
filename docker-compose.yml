@@ -1,0 +1,8 @@
+version: '3.0'
+
+services:
+  front-end:
+    build: .
+    container_name: vanuoc/nms-web
+    ports:
+      - "4222:80"
