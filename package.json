@@ -1,5 +1,5 @@
 {
-  "homepage": "https://uoc1234.github.io/football-drawn-web/",
+  "homepage": "https://uoc1234.github.io/football-drawn-web",
   "name": "footballdrawn-web",
   "version": "0.1.0",
   "private": true,
@@ -27,10 +27,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
